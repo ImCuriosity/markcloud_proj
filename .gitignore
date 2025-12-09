@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.o
+*.so
+
+# Environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Data related (선택 사항: 원본 데이터가 너무 크거나 민감한 경우)
+data/
